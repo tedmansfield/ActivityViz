@@ -11,7 +11,8 @@
   "FrontPageGraphic": "sacog-logo.png",
   "scenarios":{
     "DaySim": "- Model Run",
-    "Survey": "- Survey Data"
+    "Survey": "- Survey Data",
+	"SafeGraph": "- Passive Data"
   },
   "visualizations":{
   "3DMap":true,

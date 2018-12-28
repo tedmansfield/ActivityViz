@@ -9,12 +9,14 @@ Antelope-North Highlands,Downtown,665
 Antelope-North Highlands,East Sacramento,592
 Antelope-North Highlands,El Dorado,272
 Antelope-North Highlands,Elk Grove,131
+Antelope-North Highlands,External,0
 Antelope-North Highlands,Fair Oaks,233
 Antelope-North Highlands,Folsom,315
 Antelope-North Highlands,Franklin,8
 Antelope-North Highlands,Galt,15
 Antelope-North Highlands,Laguna,215
 Antelope-North Highlands,Land Park-Pocket-Meadowview,328
+Antelope-North Highlands,NotUsed,0
 Antelope-North Highlands,North Natomas,612
 Antelope-North Highlands,North Sacramento,1527
 Antelope-North Highlands,NW Vision Area,103
@@ -197,7 +199,6 @@ Delta,Sutter,11
 Delta,Vineyard,7
 Delta,Yolo,118
 Delta,Yuba,3
-Delta,NA,1
 Downtown,Antelope-North Highlands,682
 Downtown,Arden Arcade,1064
 Downtown,Carmichael,247
@@ -331,6 +332,7 @@ Elk Grove,Sutter,38
 Elk Grove,Vineyard,887
 Elk Grove,Yolo,217
 Elk Grove,Yuba,14
+External,External,0
 Fair Oaks,Antelope-North Highlands,229
 Fair Oaks,Arden Arcade,173
 Fair Oaks,Carmichael,307
@@ -592,6 +594,7 @@ North Sacramento,Sutter,101
 North Sacramento,Vineyard,66
 North Sacramento,Yolo,768
 North Sacramento,Yuba,65
+NotUsed,NotUsed,0
 NW Vision Area,Antelope-North Highlands,91
 NW Vision Area,Arden Arcade,69
 NW Vision Area,Carmichael,19
